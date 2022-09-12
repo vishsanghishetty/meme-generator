@@ -9,8 +9,4 @@ export default function Header() {
         <h5 className="react--title">React Course - Project 3</h5>
     </header>
     )
-
-
-
-
 }
